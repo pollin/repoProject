@@ -1,1 +1,1 @@
-ls -l /etc/*.conf
+ls -l /etc/*.conf 
